@@ -1,4 +1,6 @@
-# Disease_Prophecy
+# HealthBot
+### A chatbot aimed at predicting disease by conversating with user trying find symptoms from chat and using it for disease prediction task using Decision Tree Classifier.
+### This is a mini project for Advanced Algorithm course (CSN-501)
 ## Description
 In this project first the dataset is cleaned so that it will become workable. The dataset contain the name of disease with its symptoms and the weight associated with the disease.
 In the cleaned dataset we will make the mapping of each disease with its symptoms. So, each disease is mapped with its symptoms and its corresponding weights. Now, the cleaned dataset
